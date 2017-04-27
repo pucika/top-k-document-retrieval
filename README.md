@@ -18,7 +18,7 @@ make
 
 ## Example
 
-*The doc/ directory contains the document set.
+*The doc/ directory contains the document set.*
 
 ```cpp
 #include <iostream>
