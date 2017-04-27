@@ -21,7 +21,7 @@ make
 
 ## Example
 
-*The doc/ directory contains the document set.*
+The doc/ directory contains the document set.
 
 ```cpp
 #include <iostream>
@@ -44,10 +44,3 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
-
-  
-  ## Contributors
-  
-  ### code
-  
-  * Dongliang Zhang (张栋梁)
