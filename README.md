@@ -1,5 +1,8 @@
 # Top-k Document Retrieval
 
+    Top-k document retrieval is a full-text index. Given a pattern, it can be a word, a phase or 
+    arbitrary substring, you can get the most relevant documents with it. 
+
 ## Requirements
 
 * To compile the code, you need to install the [sdsl](https://github.com/simongog/sdsl-lite)
@@ -41,3 +44,10 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
+
+  
+  ## Contributors
+  
+  ### code
+  
+  * Dongliang Zhang (张栋梁)
